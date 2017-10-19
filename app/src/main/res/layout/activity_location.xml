@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="location"
+            type="com.recoded.visitjapan.Location"/>
+    </data>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            tools:context="com.recoded.visitjapan.LocationActivity">
+
+            <ImageView
+                android:id="@+id/loc_picture"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:scaleType="centerCrop"
+                android:transitionName="@string/trans_name_loc_pic"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="@dimen/loc_activity_paddings">
+
+                <ImageView
+                    android:id="@+id/call_button"
+                    style="@style/Widget.AppCompat.Button.Borderless"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/ic_phone_black"/>
+
+                <View
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="@dimen/loc_activity_paddings"
+                    android:background="#aeaeae"/>
+
+                <ImageView
+                    android:id="@+id/location_button"
+                    style="@style/Widget.AppCompat.Button.Borderless"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/ic_place_black"/>
+
+                <View
+                    android:layout_width="1dp"
+                    android:layout_margin="@dimen/loc_activity_paddings"
+                    android:layout_height="match_parent"
+                    android:background="#aeaeae"/>
+
+                <ImageView
+                    android:id="@+id/website_button"
+                    style="@style/Widget.AppCompat.Button.Borderless"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/ic_web_black"/>
+            </LinearLayout>
+
+
+            <TextView
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/loc_activity_paddings"
+                android:drawableLeft="@drawable/ic_info_black"
+                android:drawablePadding="@dimen/loc_activity_paddings"
+                android:gravity="top"
+                android:text="@{location.description}"/>
+
+
+            <TextView
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/loc_activity_paddings"
+                android:drawableLeft="@drawable/ic_place_black"
+                android:drawablePadding="@dimen/loc_activity_paddings"
+                android:text="@{location.address}"/>
+
+
+            <TextView
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/loc_activity_paddings"
+                android:drawableLeft="@drawable/ic_phone_black"
+                android:drawablePadding="@dimen/loc_activity_paddings"
+                android:text="@{location.telephoneNo}"/>
+
+
+            <TextView
+
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/loc_activity_paddings"
+                android:drawableLeft="@drawable/ic_web_black"
+                android:drawablePadding="@dimen/loc_activity_paddings"
+                android:text="@{location.url}"/>
+
+            <LinearLayout
+                android:id="@+id/small_gallery"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:dividerPadding="2dp"
+                android:orientation="horizontal"
+                android:padding="@dimen/loc_activity_paddings"
+                android:showDividers="middle">
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+</layout>

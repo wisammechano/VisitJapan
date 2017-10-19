@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <entry name="Mount Fuji" category="Nature">
+        <description>Mt. Fuji is the most famous mountain in Japan. The area surrounding Mt. Fuji is a most attractive tourist route for there are all kinds of sightseeing spots as well as resorts. To climb Mt. Fuji, you will need to plan an overnight visit. If, however, you wish to go on a day trip, we recommend a bus tour that will take you to the Fifth Station of Mt. Fuji and well-known sightseeing spots in the environs such as the Five Lakes of Fuji known as 'Fuji-go-ko' and Hakone. In fine weather, you will be able to command a magnificent view of Mt. Fuji.</description>
+        <tel>+81-54-221-3776</tel>
+        <url>http://www.fujisan-climb.jp/en/index.html</url>
+        <address>Japan, 418-0112 Shizuoka-ken, Fujinomiya-shi, Miyacho, 1−1</address>
+        <latitude>35.3605555</latitude>
+        <longitude>138.72777769999993</longitude>
+        <image>18</image>
+        <gallery>
+            <item>27</item>
+            <item>24</item>
+            <item>26</item>
+        </gallery>
+    </entry>
+
+    <entry name="Jigokudani Monkey Park" category="Nature">
+        <description>The only place in the world where monkeys bathe in hot springs, The Jigokudani Yaen-koen (altitude 850 meters), is located in the Valley of Yokoyu River sourced from Shiga-Kogen of the Joshinetsu-Kogen National Park in northern part of Nagano prefecture.\nBecause of the very steep cliffs and the steam coming off the springs in everywhere, ancient people called this valley ‘Jigokudani (Hell valley)’. Also it is buried in snow almost one third of the year. Even that kind of severe environment here is a paradise on earth for monkeys to live in. The troops of wild Japanese macaque (they are popularly known as snow monkeys) inhabit here naturally through the ages.\nSince the establishment of Jigokudani Yaen-koen in 1964, it has been a worldwide popular place for watching the bathing monkeys in a hot spring and for ecological observation of researchers or photographers, and some of them who visited here have accomplished certain results in the area.</description>
+        <tel>+81-269-33-4379</tel>
+        <url>http://en.jigokudani-yaenkoen.co.jp/</url>
+        <address>Japan, 381-0401 Nagano-ken, Shimotakaigun, Yamanouchi-machi, Hirao, 6845</address>
+        <latitude>36.7326856</latitude>
+        <longitude>138.46213639999996</longitude>
+        <image>35</image>
+        <gallery>
+            <item>36</item>
+        </gallery>
+    </entry>
+
+    <entry name="Nachi Falls" category="Nature">
+        <description>Nachi Falls (那智滝 Nachi no Taki) in Nachikatsuura, Wakayama Prefecture, Japan, is one of the best-known waterfalls in Japan. With a drop of 133 meters (and 13 meters wide), it is the country's tallest water fall with single uninterrupted drop.</description>
+        <tel>+81-735-55-0321</tel>
+        <url>http://kumanonachitaisha.or.jp/pavilion/waterfall.html</url>
+        <address>Japan, 649-5301 Nachisan, Nachikatsuura, Higashimuro District, Wakayama Prefecture</address>
+        <latitude>33.6700548</latitude>
+        <longitude>135.8922678</longitude>
+        <image>37</image>
+        <gallery>
+
+        </gallery>
+    </entry>
+
+    <entry name="Hakone Yuryo" category="Nature">
+        <description>Hakone Yuryo is a traditionally-styled countryside hot spring resort.\nThese large hot springs can be visited in a day trip and offer quality time, blessed by the rustic charm of Hakone Yumoto.\nLet go the stresses of daily life and soothe your body and soul.\nHakone Yuryo awaits your visit with welcoming hospitality.</description>
+        <tel>+81-460-85-8411</tel>
+        <url>http://www.hakoneyuryo.jp/english/</url>
+        <address>Japan, 250-0315 4 Tōnosawa, Hakone-machi, Ashigarashimogun, Kanagawa-ken</address>
+        <latitude>35.23385469999999</latitude>
+        <longitude>139.09583280000004</longitude>
+        <image>38</image>
+        <gallery>
+
+        </gallery>
+    </entry>
+
+    <entry name="Kyoto Imperial Palace" category="History">
+        <description>The Kyoto Imperial Palace (京都御所, Kyōto Gosho) used to be the residence of Japan's Imperial Family until 1868, when the emperor and capital were moved from Kyoto to Tokyo. It is located in the spacious Kyoto Imperial Park (京都御苑, Kyōto Gyoen), an attractive park in the center of the city that also encompasses the Sento Imperial Palace and a few other attractions.</description>
+        <tel>+81-752-11-1215</tel>
+        <url>http://sankan.kunaicho.go.jp/english/index.html</url>
+        <address>3 Kyōtogyoen, Kamigyō-ku, Kyōto-shi, Kyōtofu 602-0881, Japan</address>
+        <latitude>35.0243463</latitude>
+        <longitude>135.76190729999996</longitude>
+        <image>39</image>
+        <gallery>
+
+        </gallery>
+    </entry>
+
+    <entry name="Kinkaku-ji" category="History">
+        <description>Kinkakuji (金閣寺, Golden Pavilion) is a Zen temple in northern Kyoto whose top two floors are completely covered in gold leaf. Formally known as Rokuonji, the temple was the retirement villa of the shogun Ashikaga Yoshimitsu, and according to his will it became a Zen temple of the Rinzai sect after his death in 1408. Kinkakuji was the inspiration for the similarly named Ginkakuji (Silver Pavilion), built by Yoshimitsu's grandson, Ashikaga Yoshimasa, on the other side of the city a few decades later.</description>
+        <tel>+81-75-461-0013</tel>
+        <url>http://www.shokoku-ji.jp/k_access.html</url>
+        <address>1 Kinkakujichō, Kita-ku, Kyōto-shi, Kyōto-fu 603-8361, Japan</address>
+        <latitude>35.0393553</latitude>
+        <longitude>135.72932650000007</longitude>
+        <image>41</image>
+        <gallery>
+
+        </gallery>
+    </entry>
+
+    <entry name="Osaka Castle" category="History">
+        <description>The construction of Osaka Castle (大阪城, Ōsakajō) started in 1583 on the former site of the Ishiyama Honganji Temple, which had been destroyed by Oda Nobunaga thirteen years earlier. Toyotomi Hideyoshi intended the castle to become the center of a new, unified Japan under Toyotomi rule. It was the largest castle at the time.</description>
+        <tel>+81-6-6941-3044</tel>
+        <url>http://www.osakacastle.net/english/</url>
+        <address>1-1 Ōsakajō, Chūō-ku, Ōsaka-shi, Ōsaka-fu 540-0002, Japan</address>
+        <latitude>34.6873153</latitude>
+        <longitude>135.52620130000003</longitude>
+        <image>19</image>
+        <gallery>
+            <item>40</item>
+        </gallery>
+    </entry>
+
+    <entry name="Shirakawa-go" category="History">
+        <description>The Shirakawa-go (白川郷, Shirakawagō) and neighboring Gokayama (五箇山) regions line the Shogawa River Valley in the remote mountains that span from Gifu to Toyama Prefectures. Declared a UNESCO world heritage site in 1995, they are famous for their traditional gassho-zukuri farmhouses, some of which are more than 250 years old.</description>
+        <tel>+81-5769-6-1013</tel>
+        <url>http://ml.shirakawa-go.org/en/</url>
+        <address>Ogimachi, Shirakawa, Ono District, Gifu Prefecture 501-5600, Japan</address>
+        <latitude>36.2571441</latitude>
+        <longitude>136.9061719</longitude>
+        <image>42</image>
+        <gallery>
+        </gallery>
+    </entry>
+
+    <entry name="Kawasaki Industrial City" category="Industry">
+        <description>Kawasaki is so many things: An industrial city which has continuously supported Japan’s manufacturing; A city with an abundance of music, arts, and sports; and A city that boasts a rich natural environment, including the Tama River and Ikuta Ryokuchi to name a few. It is these diverse facets of the city which make Kawasaki so appealing.</description>
+        <tel>+81-44-200-2111</tel>
+        <url>http://www.city.kawasaki.jp/en/index.html</url>
+        <address>1 Miyamoto-cho, Kawasaki-ku, Kawasaki, Kanagawa 210-8577, Japan</address>
+        <latitude>35.531103</latitude>
+        <longitude>139.70296499999995</longitude>
+        <image>43</image>
+        <gallery>
+
+        </gallery>
+    </entry>
+
+    <entry name="Nikka Whisky" category="Industry">
+        <description>Self-guided tours and guided-tours in Japanese are conducted daily. The best part is that visitors can taste three different types of whiskey for free.</description>
+        <tel>+81-22-395-2865</tel>
+        <url>http://www.nikka.com/eng/</url>
+        <address>1 Nitsuka, Aoba Ward, Sendai, Miyagi Prefecture 989-3433, Japan</address>
+        <latitude>38.3096618</latitude>
+        <longitude>140.64977350000004</longitude>
+        <image>44</image>
+        <gallery>
+
+        </gallery>
+    </entry>
+
+    <entry name="Toyota Technology Museum" category="Industry">
+        <description>Preserving and utilizing the old factory and industrial heritage at the birthplace of Toyota, this facility was established by the 13 Toyota Group companies. Centered on textiles and automobiles, the site introduces the industrial and technological revolutions through real machines and moving exhibits.</description>
+        <tel>+81-52-551-6115</tel>
+        <url>http://www.tcmit.org/english/</url>
+        <address>1-35, Noritake Shinmachi 4-chome, Nishi-ku, Nagoya 451-0051 Japan</address>
+        <latitude>35.1819953</latitude>
+        <longitude>136.87655089999998</longitude>
+        <image>45</image>
+        <gallery>
+        </gallery>
+    </entry>
+
+    <entry name="Toshiba Science Museum" category="Industry">
+        <description>In the museums of electric/electronics manufacturers, you can see the dramatic changes in scientific technology from TVs, to semiconductors, to digital technology. Some museums have a facility where visitors can experience cutting-edge technology such as superconduction, allowing visitors to appreciate engineers’ passion for creating products.</description>
+        <tel>+81-44-549-2200</tel>
+        <url>http://toshiba-mirai-kagakukan.jp/en/</url>
+        <address>2F Lazona Kawasaki Toshiba Bldg., 72-34, Horikawa-Cho, Saiwai-Ku, Kawasaki 212-8585, Japan</address>
+        <latitude>35.53210809999999</latitude>
+        <longitude>139.69448809999994</longitude>
+        <image>46</image>
+        <gallery>
+        </gallery>
+    </entry>
+
+    <entry name="Tokyo Tower" category="Entertainment">
+        <description>Standing 333 meters high in the center of Tokyo, Tokyo Tower (東京タワー) is the world's tallest, self-supported steel tower and 13 meters taller than its model, the Eiffel Tower. A symbol of Japan's post-war rebirth as a major economic power, Tokyo Tower was the country's tallest structure from its completion in 1958 until 2012 when it was surpassed by the Tokyo Skytree. In addition to being a popular tourist spot, Tokyo Tower serves as a broadcast antenna.</description>
+        <tel>+81-3-3433-5111</tel>
+        <url>https://www.tokyotower.co.jp/</url>
+        <address>4 Chome-2-8 Shibakōen, Minato-ku, Tōkyō-to 105-0011, Japan</address>
+        <latitude>35.6585928</latitude>
+        <longitude>139.7454414</longitude>
+        <image>17</image>
+        <gallery>
+            <item>47</item>
+        </gallery>
+    </entry>
+
+    <entry name="Universal Studios Japan" category="Entertainment">
+        <description>Universal Studios Japan (USJ) was the first theme park under the Universal Studios brand to be built in Asia. Opened in March 2001 in the Osaka Bay Area, the theme park occupies an area of 39 hectares and is the most visited amusement park in Japan after Tokyo Disney Resort.</description>
+        <tel>+81-570-200-606</tel>
+        <url>http://www.usj.co.jp/e/</url>
+        <address>2 Chome-1-33 Sakurajima, Konohana-ku, Ōsaka-shi, Ōsaka-fu 554-0031, Japan</address>
+        <latitude>34.66543335586564</latitude>
+        <longitude>135.43231805896914</longitude>
+        <image>48</image>
+        <gallery>
+
+        </gallery>
+    </entry>
+
+    <entry name="Osaka Aquarium Kaiyukan" category="Entertainment">
+        <description>Osaka Aquarium Kaiyukan (海遊館, Kaiyūkan) is located in the Tempozan Harbor Village of Osaka's bay area, and is one of Japan's most spectacular aquariums. It introduces various forms of life inhabiting the Pacific Rim in a well organized and impressive way.</description>
+        <tel>+81-6-6576-5501</tel>
+        <url>http://www.kaiyukan.com/language/eng/</url>
+        <address>1 Chome-1-10 Kaigandōri, Minato-ku, Ōsakashi, Ōsaka-fu 552-0022, Japan</address>
+        <latitude>34.6550348</latitude>
+        <longitude>135.42888949999997</longitude>
+        <image>49</image>
+        <gallery>
+        </gallery>
+    </entry>
+
+    <entry name="Happo-One Ski Resort" category="Entertainment">
+        <description>Hakuba Happoone Winter Resort is a ski resort located on Mount Karamatsu in Hakuba, Japan. For the 1998 Winter Olympics in Nagano, it hosted the alpine skiing downhill, super giant slalom, and combined slalom events.</description>
+        <tel>+81-261-72-2715</tel>
+        <url>http://www.happo-one.jp/english/</url>
+        <address>Japan, 399-9301 Nagano-ken, Kitaazumigun, Hakuba-mura, 5713</address>
+        <latitude>36.69468822362251</latitude>
+        <longitude>137.8607851534424</longitude>
+        <image>50</image>
+        <gallery>
+        </gallery>
+    </entry>
+
+</resources>

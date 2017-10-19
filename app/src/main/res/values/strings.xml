@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Visit Japan!</string>
+    <string name="intro1">日本へようこそ！\n\nNihon e yokoso!\n\nWelcome to Japan!</string>
+    <string name="intro2">This app will guide you through one of the greatest civilizations on our planet!\n\nEnjoy!</string>
+    <string name="next">Next</string>
+    <string name="prev">Previous</string>
+    <string name="title_activity_main">Japan\'s Tourist Guide</string>
+    <string name="title_home">Home</string>
+    <string name="title_attractions">Attractions</string>
+    <string name="title_gallery">Gallery</string>
+
+    <string name="trans_name_loc_pic">LocPicture</string>
+    <string name="trans_name_loc_name">LocName</string>
+    <string name="trans_name_loc_addr">LocAddress</string>
+    <string name="trans_name_loc_tel">LocTel</string>
+    <string name="trans_name_zoom_in">ZoomIn</string>
+    <string name="image_id_extra_tag">ID</string>
+    <string name="location_obj_extra_tag">LOCATION</string>
+    <string name="about_japan_title">About Japan</string>
+    <string name="about_japan_txt">Japan is one of the most popular travel destinations in the world. It is a unique blend of traditional and modern, with many temples and buildings from the past co-existing with modern achievements in architecture and technology. Visitors can be immersed in Japanese history and culture one day and get a glimpse of the future through technological developments the next. Almost all of the historical sites are still used for their original purposes while remaining open to the public. The natural beauty of Japan can be seen all year. In addition, Japan has one of the world’s lowest crime rates which makes it ideal for travelers. In this app we will offer you a simple gallery of Japan\'s rich beauty with a list of places of interest for tourists in nature, history, industry and entertainment.</string>
+    <string name="facts_title">Facts</string>
+    <string name="facts_txt">Land Area: 145,936 sq kilometers (56,346.20 sq miles)\n\nPopulation: 126,918,000\n\nGDP per capita US$34,522\n\nMain Industries: Automobiles, consumer electronics, computers, other electronics\n\nCapital: Tokyo\n\nMain Religions: Shintoism, Buddhism and Christianity\n\nLanguage: Japanese\n\nCurrency: Japanese yen (JPY)\n\nNational Flag: Nisshoki\n\nAnthem: Kimi ga Yo\n\nNumber of Prefectures: 47\n\nDrives on the: Left\n\nTime zone: UTC+9 (DST not observed)</string>
+
+</resources>

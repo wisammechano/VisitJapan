@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <image id="1" src="@drawable/j_1">Tokyo Imperial Palace</image>
+    <image id="2" src="@drawable/j_2">A glimpse of the cherry blossom flower in spring</image>
+    <image id="3" src="@drawable/j_3">State of the samurai warrior Kusunoki Masashige in the East Garden outside Tokyo’s Imperial Palace</image>
+    <image id="4" src="@drawable/j_4">Tokyo, truly a city that never sleeps</image>
+    <image id="5" src="@drawable/j_5">Japanese fans, Kyoto</image>
+    <image id="6" src="@drawable/j_6">Tokyo Skyline</image>
+    <image id="7" src="@drawable/j_7">Shasui waterfall at Yamakita</image>
+    <image id="8" src="@drawable/j_8">Octopus in the Tsukiji fish market in Tokyo</image>
+    <image id="9" src="@drawable/j_9">Modern architecture of Osaka</image>
+    <image id="10" src="@drawable/j_10">Rickshaws in Kyoto</image>
+    <image id="11" src="@drawable/j_11">A Japanese Pagoda in Tokyo</image>
+    <image id="12" src="@drawable/j_12">Front of the Shuri Castle in Okinawa</image>
+    <image id="13" src="@drawable/j_13">Japanese Garden in Tokyo</image>
+    <image id="14" src="@drawable/j_14">Kegon Falls in Nikko National Park</image>
+    <image id="15" src="@drawable/j_15">Todaiji Temple in Nara, Kansai, Japan (near Osaka)</image>
+    <image id="16" src="@drawable/j_16">Waiting for a train to pass in Tokyo</image>
+    <image id="17" src="@drawable/j_17">Tokyo Tower with Sakura view</image>
+    <image id="18" src="@drawable/j_18">Mount Fuji</image>
+    <image id="19" src="@drawable/j_19">The famous Osaka Castle</image>
+    <image id="20" src="@drawable/j_20">Guardian statue at the Shinto Shrine outside of Tokyo</image>
+    <image id="21" src="@drawable/j_21">An island in Soma</image>
+    <image id="22" src="@drawable/j_22">Volcanic rock and hot springs at Hakone</image>
+    <image id="23" src="@drawable/j_23">Waterfront of Osaka</image>
+    <image id="24" src="@drawable/j_24">Mt Fuji at night</image>
+    <image id="25" src="@drawable/j_25">Night view of Kobe, west of Osaka</image>
+    <image id="26" src="@drawable/j_26">View over Tokyo</image>
+    <image id="27" src="@drawable/j_27">Lake in front of Mt Fuji</image>
+    <image id="28" src="@drawable/j_28">Inari Shrine in Kyoto</image>
+    <image id="29" src="@drawable/j_29">Scene from Yokohama city</image>
+    <image id="30" src="@drawable/j_30">Okayama castle, painted in black, it is known as the Crow Castle</image>
+    <image id="31" src="@drawable/j_31">The Buddha at Kamakura, near Tokyo</image>
+    <image id="32" src="@drawable/j_32">Ryuzu no Taki (Dragon Head Falls) in Nikko</image>
+    <image id="33" src="@drawable/j_33">Tokyo bridge at night</image>
+    <image id="34" src="@drawable/j_34">The face of traditional Japan is still alive today</image>
+    <image id="35" src="@drawable/j_35">Jigokudani Monkey Park</image>
+    <image id="36" src="@drawable/j_36">Monkeys enjoying their bath at Jigokudani Monkey Park</image>
+    <image id="37" src="@drawable/j_37">Nachi Falls</image>
+    <image id="38" src="@drawable/j_38">Hakone Yuryo hot springs</image>
+    <image id="39" src="@drawable/j_39">Kyoto Imperial Palace</image>
+    <image id="40" src="@drawable/j_40">Osaka Castle with cherry blossoms</image>
+    <image id="41" src="@drawable/j_41">Kinkakuji (Golden Pavilion)</image>
+    <image id="42" src="@drawable/j_42">Shirakawa-go</image>
+    <image id="43" src="@drawable/j_43">Kawasaki Industrial City</image>
+    <image id="44" src="@drawable/j_44">Nikka Whisky - Miyagikyo Distillery</image>
+    <image id="45" src="@drawable/j_45">Toyota Technology Museum</image>
+    <image id="46" src="@drawable/j_46">Toshiba Science Museum</image>
+    <image id="47" src="@drawable/j_47">Tokyo Tower</image>
+    <image id="48" src="@drawable/j_48">Universal Studios Japan</image>
+    <image id="49" src="@drawable/j_49">Osaka Aquarium Kaiyukan</image>
+    <image id="50" src="@drawable/j_50">Hakuba Happoone Winter Resort</image>
+</resources>
