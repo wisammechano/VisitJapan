@@ -17,7 +17,7 @@ public class MainAttractionsFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View layout = inflater.inflate(R.layout.fragment_attractions_main, container, false);
         ViewPager vp = layout.findViewById(R.id.categories_view_pager);
-        AttractionsCategoryFragmentsAdapter pagerAdapter = new AttractionsCategoryFragmentsAdapter(getFragmentManager());
+        AttractionsCategoryFragmentsAdapter pagerAdapter = new AttractionsCategoryFragmentsAdapter(getFragmentManager(), getActivity());
         vp.setAdapter(pagerAdapter);
         ((TabLayout) layout.findViewById(R.id.tab_layout)).setupWithViewPager(vp);
 
