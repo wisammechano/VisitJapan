@@ -10,10 +10,14 @@ import android.support.v4.app.FragmentPagerAdapter;
  */
 
 public class AttractionsCategoryFragmentsAdapter extends FragmentPagerAdapter {
-    private String[] categories = {"Nature", "History", "Industry", "Entertainment"};
+    private String[] categories;
 
-    public AttractionsCategoryFragmentsAdapter(FragmentManager fm) {
+    public AttractionsCategoryFragmentsAdapter(FragmentManager fm, Context c) {
         super(fm);
+		categories[0] = c.getString(R.string.cat_nature);
+		categories[1] = c.getString(R.string.cat_history);
+		categories[2] = c.getString(R.string.cat_industry);
+		categories[3] = c.getString(R.string.cat_entertainment);
     }
 
     @Override
