@@ -16,6 +16,11 @@
     <string name="trans_name_zoom_in">ZoomIn</string>
     <string name="image_id_extra_tag">ID</string>
     <string name="location_obj_extra_tag">LOCATION</string>
+    <string name="cat_nature">Nature</string>
+    <string name="cat_history">History</string>
+    <string name="cat_industry">Industry</string>
+    <string name="cat_entertainment">Entertainment</string>
+
     <string name="about_japan_title">About Japan</string>
     <string name="about_japan_txt">Japan is one of the most popular travel destinations in the world. It is a unique blend of traditional and modern, with many temples and buildings from the past co-existing with modern achievements in architecture and technology. Visitors can be immersed in Japanese history and culture one day and get a glimpse of the future through technological developments the next. Almost all of the historical sites are still used for their original purposes while remaining open to the public. The natural beauty of Japan can be seen all year. In addition, Japan has one of the world’s lowest crime rates which makes it ideal for travelers. In this app we will offer you a simple gallery of Japan\'s rich beauty with a list of places of interest for tourists in nature, history, industry and entertainment.</string>
     <string name="facts_title">Facts</string>
