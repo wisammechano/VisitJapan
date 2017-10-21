@@ -1,5 +1,6 @@
 package com.recoded.visitjapan;
 
+import android.content.Context;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
@@ -9,10 +10,10 @@ import android.support.v4.app.FragmentPagerAdapter;
  * Created by wisam on Oct 18 17.
  */
 
-public class AttractionsCategoryFragmentsAdapter extends FragmentPagerAdapter {
+class AttractionsCategoryFragmentsAdapter extends FragmentPagerAdapter {
     private String[] categories;
 
-    public AttractionsCategoryFragmentsAdapter(FragmentManager fm, Context c) {
+    AttractionsCategoryFragmentsAdapter(FragmentManager fm, Context c) {
         super(fm);
 		categories[0] = c.getString(R.string.cat_nature);
 		categories[1] = c.getString(R.string.cat_history);
